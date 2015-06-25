@@ -1,2 +1,2 @@
 # Examn
-Examen de Ingenieria de Software
+Este es el repositorio del examen de Ingenieria de Software.
